@@ -1,25 +1,16 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+# [Laundry.io]
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
-
-## Getting Started
-
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
-
-## Bugs and Issues
-
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+[Laundry.io] is a one page redesign for [SheLovesToDoLaundry](http://shelovestodolaundry.com/) created by [Kartik Lunkad]. This redesign focuses on improving the ease of use and showcase its visual design features 
+over the existing website. It features several content sections, a responsive portfolio grid with hover effects, a responsive form accepting information and a working email integration. 
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Laundry.io was created by Kartik Lunkad. I would like to thank David Miller (responsible for creating 'Start Bootstrap') for providing the initial Bootstrap template. 
+If you have any questions, you can reach me through one of the below ways. 
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+* https://twitter.com/kartikkl
+* https://github.com/kartiklunkad26
+* kartiklunkad@gmail.com
 
 ## Copyright and License
 
