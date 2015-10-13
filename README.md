@@ -1,6 +1,6 @@
-# [Laundry.io]
+## Laundry.io
 
-[Laundry.io] is a one page redesign for [SheLovesToDoLaundry](http://shelovestodolaundry.com/) created by [Kartik Lunkad]. This redesign focuses on improving the ease of use and showcase its visual design features 
+Laundry.io is a one page redesign for [SheLovesToDoLaundry](http://shelovestodolaundry.com/) created by [Kartik Lunkad]. This redesign focuses on improving the ease of use and showcase its visual design features 
 over the existing website. It features several content sections, a responsive portfolio grid with hover effects, a responsive form accepting information and a working email integration. 
 
 ## Creator
