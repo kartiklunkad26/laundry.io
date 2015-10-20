@@ -4,6 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
 header .search {
 	position: relative;
 	left: 51px;
@@ -12,6 +13,7 @@ header .search {
 }
 body {
     overflow-x: hidden;
+	overflow-y: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
