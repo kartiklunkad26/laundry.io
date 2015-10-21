@@ -1,4 +1,4 @@
-## Laundry.io
+## [Laundry.io](http://kartiklunkad26.github.io/laundry.io/)
 
 Laundry.io is a front-end redesign project for [SheLovesToDoLaundry](http://shelovestodolaundry.com/) created by [Kartik Lunkad](https://medium.com/@kartikkl). This redesign focuses on improving the ease of use and showcase its visual design features 
 over the existing website. It features several content sections, a responsive portfolio grid with hover effects, a responsive form accepting information and a working email integration. 
